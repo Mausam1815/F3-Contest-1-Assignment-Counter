@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+div {
+    margin: 30px;
+}
+
+#div1 {
+    margin-top: 65px;
+}
+
+#div2 {
+    padding-bottom: 15px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    width: fit-content;
+}
+
+#div3 {
+    color: red;
+}
+
+button {
+    width: 170px;
+    height: 40px;
+    font-size: medium;
+    margin-right: 12px;
+}
+
+#button3 {
+    background-color: black;
+    color: white;
+    border-color: white;
+}
